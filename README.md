@@ -18,6 +18,7 @@ A webshop for rose bushes using various techniques, like asynchronous programmin
 ----
 ### Rating products via Ajax call
 ![Rate Products](RateProducts.JPG)
+
 ----
 ### Acces product cataloque via API call
 ![API CALL](CatalogueAPI.JPG)
