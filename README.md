@@ -16,7 +16,7 @@ A webshop for rose bushes using various techniques, like asynchronous programmin
 * Dependency Injection, 
 * Singleton
 ----
-### Rating products via Ajax call:
+### Rating products via Ajax call
 ![Rate Products](RateProducts.JPG)
 ----
 ### Acces product cataloque via API call
