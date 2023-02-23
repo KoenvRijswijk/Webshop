@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<items>
+  <roos>
+    <id>70</id>
+    <productname>glauca</productname>
+    <description>Een sierraad in uw tuin, of grote border. Grote heester met prachtig blauwachtig blad, dat die kleur gekregen heeft als bescherming tegen UV licht op de berghellingen waar deze roos oorspronkelijk voorkomt. Mooie vorm, leuke bloemen, prachtige bottels!!!</description>
+    <image>glauca-01-hmf-big.jpg</image>
+    <price>16.95</price>
+    <stock>10</stock>
+    <active>1</active>
+  </roos>
+  <roos>
+    <id>71</id>
+    <productname>Maxi Vita&#xAE;</productname>
+    <description>Alweer zo een geweldige heester van het Duitse Kordes. En ook dit kleurenspel is, naast de geweldige gezondheid, weer een feestje. Oranje? Roze? Zalm?, Perzik? Geen idee. Het zit er allemaal in, komt allemaal aan bod en passeert allemaal de revue. Perfecte begeleider van vaste planten!</description>
+    <image>maxivita_01_hmf.jpg</image>
+    <price>15.95</price>
+    <stock>3</stock>
+    <active>1</active>
+  </roos>
+  <roos>
+    <id>73</id>
+    <productname>Blush Noisette</productname>
+    <description>Phillipe Noisette heeft niet meer dan vijf rozen ontwikkeld waarvan dit de enige is die nog bestaat! En terecht. Met steun een kleine korte klimmer, zonder steun een fantastische heester met los karakter. Heerlijke geur met een tikje kruidnagel. De stamouder van alle Noisette rozen!!</description>
+    <image>Blush-Noisette1hmf-big.jpg</image>
+    <price>18.95</price>
+    <stock>5</stock>
+    <active>1</active>
+  </roos>
+  <roos>
+    <id>74</id>
+    <productname>Aennchen von Tharau</productname>
+    <description>Prachtige roos uit het jaar 1886 met een uitzonderlijke smaak en zeer resistent tegen ziektes.</description>
+    <image>aennchen_von_tharau_johannes_reitter_04_hmf-big.jpg</image>
+    <price>16.95</price>
+    <stock>5</stock>
+    <active>1</active>
+  </roos>
+  <roos>
+    <id>75</id>
+    <productname>Heavenly Pink &#xAE;</productname>
+    <description>Werkelijk een betoverend mooie heester. Heel zacht geurend, maar vooral geschikt om massa te maken in de border. Massa met een hoofdletter, met grote trossen geweldige bloemen. Bloeitakken 1/3 inkorten na de bloei. G&#xE9;&#xE9;n bottels, maar bloeit het hele seizoen. </description>
+    <image>Heavenly-pink-01hmf-big.jpg</image>
+    <price>15.95</price>
+    <stock>10</stock>
+    <active>1</active>
+  </roos>
+  <roos>
+    <id>76</id>
+    <productname>New Dawn</productname>
+    <description>Door kruisingen wist dr. W. van Fleet rond 1900 een prachtige klimroos te maken die hij zijn naam gaf. Dertig jaar later vond men in deze klimroos een tak die maar bleef bloeien. Deze sport werd New Dawn genoemd. Ideaal voor grote pergola&#x2019;s. </description>
+    <image>New-Dawn-01-hmf-big.jpg</image>
+    <price>18.95</price>
+    <stock>5</stock>
+    <active>1</active>
+  </roos>
+  <roos>
+    <id>77</id>
+    <productname>Coco</productname>
+    <description>De halfopen bloemen met contrasterende meeldraden verschijnen tot aan de eerste vorst aan een breed groeiend struikje met glanzend donkergroen blad in een fascinerend gevecht om de juiste kleur: oranje, roze, zalmkleurig of toch weer oranje?! Aan u de keus.   </description>
+    <image>coco-01-hmf-big.jpg</image>
+    <price>15.95</price>
+    <stock>4</stock>
+    <active>1</active>
+  </roos>
+  <roos>
+    <id>78</id>
+    <productname>Dagmar Hastrup</productname>
+    <description>De Deen Knud Julianus Hastrup heeft deze vondeling in 1914 naar zijn vrouw vernoemd. Niet zelden tref je op &#xE9;&#xE9;n struik aan: bloemen, groene bottels, oranje bottels, rode bottels. Bloemblaadjes voorzichtig plukken voor marmelade, daarna toch nog bottels! Arme zandgrond/zeewind. Zeer winterhard.</description>
+    <image>Dagmar-Hastrup-01-hmf-big.jpg</image>
+    <price>15.95</price>
+    <stock>4</stock>
+    <active>1</active>
+  </roos>
+  <roos>
+    <id>82</id>
+    <productname>Z&#xE9;phirine Drouhin</productname>
+    <description>Er blijft vraag naar deze roos. Dat is vooral vanwege de spectaculaire geur! Deze Bourbonroos draagt vrijwel geen doorns. Maar daar moet u wel wat voor (blijven) doen. U kunt haar niet aan haar lot overlaten. Ze vraagt om een plaats met een gezonde, rijke, maar goed doorlatende bodem, voldoende water, voeding en licht.</description>
+    <image>zephirine-Drouhin.jpg</image>
+    <price>22.00</price>
+    <stock>2</stock>
+    <active>1</active>
+  </roos>
+  <roos>
+    <id>83</id>
+    <productname>Awakening</productname>
+    <description>Na de val van het ijzeren gordijn werd deze sport van &#x2018;New Dawn&#x2019; van Tsjechi&#xEB; naar het westen gehaald. Het enige uiterlijke verschil zijn de mooie gekwartierde bloemen: daarbij hebben wij het idee dat ze iets sterker geurt, kleiner blijft en gezonder is. Ideaal voor pergola&#x2019;s.</description>
+    <image>awakening-01-hmf-big.jpg</image>
+    <price>20.00</price>
+    <stock>5</stock>
+    <active>1</active>
+  </roos>
+</items>

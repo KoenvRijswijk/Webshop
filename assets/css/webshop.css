@@ -1,0 +1,246 @@
+body {
+    width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+header {
+    height : 150px;
+    font-size :400%;
+    color : white;
+    text-shadow: 2px 2px gray;
+    padding : 20px 30px;
+    background-image: url('../img/header.jpg');
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-position: center; 
+}
+
+header i {
+    font-size : 50%;
+}  
+
+nav {
+    margin : 10px 0px;
+}
+main {
+    min-height :50vh;
+}
+
+main > img {
+    width : 100%;
+    border-radius :10px;
+}
+
+ul.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.menu li {
+    background-color: black;
+    list-style: none;
+    display: inline;
+    border: 1px solid black;
+    padding: 15px;
+    color: white;
+}
+
+ul.menu li > a {
+    color: white;
+    text-decoration: none;
+}
+
+ul.menu li > span {
+    color: white;
+    text-decoration: none;
+}
+
+a.button {
+    border-radius : 5px;
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    border: 2px solid black;
+    padding :3px;
+}
+
+form {
+    width: 700px;
+    margin: 0px auto;
+}
+
+label {
+    margin-top: 10px;
+}
+
+input {
+    width: 70%;
+}
+
+textarea {
+    width: 70%;
+    resize: none;
+}
+
+select {
+    width: 50%;
+}
+
+input, select, textarea {
+    margin-bottom : 10px;
+}
+
+button {
+    width: 15%;
+    margin-top: 10px;
+}
+
+p {
+    background-color: white;
+}
+
+footer {
+    margin-top:30px;
+    padding :5px;
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
+
+table.order {
+    border : 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.order th {
+    padding : 5px;
+    color: white;
+    background-color: black;
+} 
+
+table.order td {
+    padding : 5px;
+}
+
+.num {
+    text-align: right;
+}
+
+.webshop-item a,
+table.order a {
+	font-size : 100%;
+	text-decoration: none;
+}
+
+.webshop-item {
+    margin : 5px;
+}
+
+.webshop-item img {
+    max-width : 65%;
+    border-radius : 10px;
+}
+
+.small-item {
+    display : inline-block;
+    border : 1px solid grey;
+    border-radius : 10px;
+    padding : 5px;
+    width : 30%;    
+}
+.small-item h3{
+    height:  90px;
+}
+
+.small-item img {
+    max-height: 140px;
+}
+div.webshop > div.webshop-item.small-item > p > input
+{
+    max-width : 35px;
+}
+
+div#message > div {
+   color: #4F8A10;
+  background-color: #DFF2BF;
+  background-image: url('https://i.imgur.com/Q9BGTuy.png');
+  border: 1px solid;
+  margin: 10px 0px;
+  padding: 15px 10px 15px 50px;
+  background-repeat: no-repeat;
+  background-position: 10px center;
+}
+
+.SYSMSG {
+    border : 1px solid green;
+    background-color: yellowgreen;
+    color : black;
+}    
+
+.SYSERR {
+   color: #D8000C;
+  background-color: #FFBABA;
+  background-image: url('https://i.imgur.com/GnyDvKN.png');
+  border: 1px solid;
+  margin: 10px 0px;
+  padding: 15px 10px 15px 50px;
+  background-repeat: no-repeat;
+  background-position: 10px center;
+}    
+
+/*--- buttons to stars ---*/
+
+.img-small {
+ width: 20%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.rate {
+    float: left;
+    height: 46px;
+    padding: 0 10px;
+}
+.rate:not(:checked) > input {
+    position:absolute;
+    top:-9999px;
+}
+.rate:not(:checked) > label {
+    float:right;
+    width:1em;
+    overflow:hidden;
+    white-space:nowrap;
+    cursor:pointer;
+    font-size:30px;
+    color:#ccc;
+}
+.rate:not(:checked) > label:before {
+    content: '★ ';
+}
+.rate > input:checked ~ label {
+    color: #ffc700;    
+}
+.rate:not(:checked) > label:hover,
+.rate:not(:checked) > label:hover ~ label {
+    color: #deb217;  
+}
+.rate > input:checked + label:hover,
+.rate > input:checked + label:hover ~ label,
+.rate > input:checked ~ label:hover,
+.rate > input:checked ~ label:hover ~ label,
+.rate > label:hover ~ input:checked ~ label {
+    color: #c59b08;
+}
+
+p.rating{
+    text-align: left;
+}
+
+span.error{
+    color: red;
+}
