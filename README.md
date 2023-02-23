@@ -1,8 +1,8 @@
 # PHP Webshop (Object Oriented Programming)
-A webshop for rose bushes using various techniques, like asynchonic ajax calls for updating shopping cart and product rating. 
+A webshop for rose bushes using various techniques, like asynchronous programming for updating the shopping cart and rating products. 
 
 ----
-### Technologieën
+### Technologies
 * PHP (backend)
 * JavaScript (frontend)
 * HTML
