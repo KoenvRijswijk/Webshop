@@ -19,6 +19,6 @@ define('WEBIMG_FOLDER', '.\assets\img\\');
 define("PDOHOST",		"127.0.0.1");
 define('PDODATABASE',   'educom');
 define('PDOUSER',       'root');
-define('PDOPASS',       ''); //56787F62767E
-define('PDOPASSUNSAFE',  ''); //bonsai
+define('PDOPASS',       ''); 
+define('PDOPASSUNSAFE',  ''); 
 define('PDODRIVER',     'mysql');
