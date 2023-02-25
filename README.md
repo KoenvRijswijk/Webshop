@@ -11,9 +11,10 @@ A webshop for rose bushes using various techniques, like asynchronous programmin
 * AJAX
 ----
 ### Design Patterns: 
-* OOP, 
-* MVC, 
-* Dependency Injection, 
+* OOP
+* MVC 
+* Dependency Injection
+* Crud (Create Read Update Delete)
 * Singleton
 ----
 ### Rating products via Ajax call
